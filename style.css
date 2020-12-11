@@ -1,0 +1,55 @@
+body{
+    font-family: 'Lobster Two', cursive;
+    background-image: linear-gradient(to right, #ff8be1, #e794ef, #cd9cf9, #b1a3fd, #96a9fd, #70b5ff, #45bfff, #09c8f9, #00d7e9, #42e3cd, #85ebaf, #c0ee95);
+}
+
+.heading{
+    width: 80%;
+    margin: 0px;
+    color: snow;
+    box-shadow: 10px 10px 10px whitesmoke;
+    font-size: 40px;
+    letter-spacing: 10px;
+    background-image: linear-gradient(to left, #b741f6, #ef1cc0, #ff2a8f, #ff5168, #f17350);
+}
+
+.model_div {
+    float:none;
+    background-color: azure;
+    color: mediumaquamarine;
+    box-shadow: wheat;
+    border-radius: 20px;
+}
+
+.object_div{
+    font-size: 15px;
+    white-space: pre-line;
+    letter-spacing: normal;
+}
+
+.para{
+    background-color: violet;
+    border: #ff2a8f;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px honeydew;
+    font-size: 20px;
+
+}
+
+#copyright{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: hotpink;
+    color: rgb(76, 0, 255);
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+}
+
+canvas{
+    border:10px groove royalblue;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rebeccapurple;
+    margin-top: 100px;
+}
